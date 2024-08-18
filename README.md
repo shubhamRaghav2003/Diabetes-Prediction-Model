@@ -1,5 +1,5 @@
-# Diabetes-Prediction-Model
-🩺 Diabetes Prediction Model
+# 🩺 Diabetes Prediction Model
+
 Embark on a journey towards better health with our Diabetes Prediction Model! 📊 This project features a robust machine learning approach to predict the likelihood of diabetes development based on comprehensive health indicators.
 
 Key Features 📈
